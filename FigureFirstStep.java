@@ -16,6 +16,10 @@ public class FigureFirstStep {
         System.out.println("Hello from FigureFirstStep");
     }
 
+    public void draw() {
+        
+    }
+
     public FigureFirstStep(double x, double y) {
         this.x =x;
         this.y =y;
